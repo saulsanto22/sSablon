@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165043258827",
+    "project_id": "appssablon",
+    "storage_bucket": "appssablon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165043258827:android:8e9d171e9d6eb57b6e224e",
+        "android_client_info": {
+          "package_name": "com.example.sablon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165043258827-tvrsdbnvivdouus89rg5cucbfobu5o88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxn3sdOAi858fyCcvb7cAewzueSCQfX5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165043258827-tvrsdbnvivdouus89rg5cucbfobu5o88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
